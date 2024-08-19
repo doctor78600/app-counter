@@ -1,0 +1,49 @@
+.counter {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .input {
+    margin-top: 20px;
+  }
+  h1 {
+    color: cadetblue;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+  label {
+    color: rgb(0, 4, 255);
+    display: block;
+  }
+
+  #btn {
+    background-color: azure;
+    color: brown;
+  }
+  
+  #btn1 {
+    background-color: bisque;
+    color: rgb(0, 123, 255);
+  }
+
+  #btn2 {
+    background-color: blueviolet;
+    color: aliceblue;
+  }
+  #lable1 {
+    margin-top: 20px;
+  }
+  
+  input[type="number"] {
+    margin-left: 10px;
+    padding: 5px;
+    width: 60px;
+    border-radius: 10px;
+    text-align: center;
+    border-color: rgb(255, 0, 242);
+    color: blueviolet;
+  }
